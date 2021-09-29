@@ -1,0 +1,19 @@
+{
+    "name": "veterinaria",
+    "version": "1.0.0",
+    "description": "codigo sobre el agendamiento de citas para una veterinaria ",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app"
+    },
+    "type": "module",
+    "author": "juan gabriel",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^10.0.0",
+        "express": "^4.17.1",
+        "express-validator": "^6.11.1",
+        "mongoose": "^5.12.12"
+    }
+}
